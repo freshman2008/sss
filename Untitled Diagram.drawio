@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2020-02-17T02:13:17.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.7.0" etag="a8qT0A9FwLlhlYthHWkD" type="github"><diagram id="iITMJEGxvNc4XNnOWV0C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-17T02:17:03.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="wHkbGhTnpKXtbBNpRwss" version="12.7.0" type="github">
+  <diagram id="iITMJEGxvNc4XNnOWV0C" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="dxxxvWK_rQFk8N6o6b7s-1" value="activity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="dxxxvWK_rQFk8N6o6b7s-2" value="model" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="dxxxvWK_rQFk8N6o6b7s-8" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="dxxxvWK_rQFk8N6o6b7s-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="150" y="180" as="sourcePoint"/>
+            <mxPoint x="230" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
